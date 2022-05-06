@@ -75,7 +75,12 @@ footer{
     flex-direction:column;
   }
   
+  
   .step-box{
     margin: 10px;
+    width: 90%;
   }
+  
+ 
+  
 }
