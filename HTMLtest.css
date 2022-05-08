@@ -33,7 +33,7 @@ main{
   background-image: url(img/flow01.png);
   height:150px;
   background-size: cover;
-  background-position: bottom
+  background-position: bottom;
 }
 
 .step-img2{
@@ -80,13 +80,14 @@ footer{
     flex-direction:column;
     margin-top: 50px;
     margin-bottom: 50px;
+    width: 90%;
     
   }
   
   
   .step-box{
-    margin: 20px;
-    width: 90%;
+    margin-top: 20px;
+    width: 100%;
     
   }
   
